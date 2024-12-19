@@ -1,7 +1,7 @@
 # 💫 About Kermit Joseph Lee:
 - 🔭 I’m currently working on project catFeeder
 - 🌱 I’m currently learning Rust/Golang
-- 🤔 I’m looking for help with employment as a Front-end focused Full Stack Engineer
+- 🤔 Working at Coterie as a Front-end focused Full Stack Engineer
 - 💬 Ask me about cats, cooking, sailing
 
 
